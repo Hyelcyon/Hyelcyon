@@ -1,5 +1,5 @@
 ###
-<h2 align="left">Hello</h2>
+<h2 align="left">Hello, I'm Hyelcyon</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="64" alt="cplusplus logo" />
