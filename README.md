@@ -1,3 +1,3 @@
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Hyelcyon/Hyelcyon/main/assets/header.svg" width="100%" alt="Hyelcyon Banner with Floating Skills" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hyelcyon/Hyelcyon/main/assets/profile-banner.svg" width="100%" alt="Hyelcyon Banner with Floating Languages" />
 </div>
