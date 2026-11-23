@@ -12,9 +12,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo" />
 </div>
-
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-unserori.vercel.app/?username=Hyelcyon&theme=matrix&column=7&margin-w=10&margin-h=10&no-bg=true" alt="Trophies" />
-  </a>
-</div>
